@@ -24,7 +24,7 @@
   "dependencies": {
     "bluebird": "^3.0.5",
     "express": "^4.13.3",
-    "oauth2-server": "git@github.com:Kinvey/node-oauth2-server.git"
+    "oauth2-server": "git@github.com:Kinvey/node-oauth2-server.git#3.1.0-kinvey"
   },
   "devDependencies": {
     "body-parser": "^1.14.1",
